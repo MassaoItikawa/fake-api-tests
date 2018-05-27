@@ -1,0 +1,4 @@
+{
+	"App_Services/Auth.OAuth2.svc/:view" : "/:view",	
+	"WorldCup/Argentine/:view" : "/:view"
+}

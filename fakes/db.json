@@ -1,0 +1,161 @@
+{
+  "token": {
+    "AccessToken": "O91G451HZ0V83opz6udiSEjchPynd2Ss9"
+  },
+  "Fixtures":
+  [
+  	{
+  		"Date": "Sábado 16/06/2018 10:00:00",
+  		"Oponent": "Islândia"
+  	},
+  	{
+  		"Date": "Quinta-feira 21/06/2018 15:00:00",
+  		"Oponent": "Croácia"
+  	},
+  	{
+  		"Date": "Terça-feira 26/06/2018 15:00:00",
+  		"Oponent": "Nigéria"
+  	}
+  ],
+  "Squad":
+  [
+  	{
+  		"Name": "Sergio Romero",
+  		"Age": "31",
+  		"Position": "GK",
+  		"Club": "Manchester United (ENG)"
+  	},
+  	{
+  		"Name": "Franco Armani",
+  		"Age": "31",
+  		"Position": "GK",
+  		"Club": "River Plate (ARG)"
+  	},
+  	{
+  		"Name": "Willy Caballero",
+  		"Age": "36",
+  		"Position": "GK",
+  		"Club": "Chelsea (ENG)"
+  	},
+  	{
+  		"Name": "Cristian Ansaldi",
+  		"Age": "31",
+  		"Position": "DC",
+  		"Club": "Torino (ITA)"
+  	},
+  	{
+  		"Name": "Marcos Rojo",
+  		"Age": "28",
+  		"Position": "DE",
+  		"Club": "Manchester United (ENG)"
+  	},
+  	{
+  		"Name": "MArcos Acuña",
+  		"Age": "26",
+  		"Position": "DD",
+  		"Club": "Sporting (POR)"
+  	},
+  	{
+  		"Name": "Nicolás Tagliafico",
+  		"Age": "25",
+  		"Position": "DD",
+  		"Club": "Ajax (NED)"
+  	},
+  	{
+  		"Name": "Gabriel Mercado",
+  		"Age": "31",
+  		"Position": "DC/DD",
+  		"Club": "Sevilla (ESP)"
+  	},
+  	{
+  		"Name": "Nicolás Otamendi",
+  		"Age": "30",
+  		"Position": "DC",
+  		"Club": "Manchester City (ENG)"
+  	},
+  	{
+  		"Name": "Javier Mascherano",
+  		"Age": "33",
+  		"Position": "DC/MF",
+  		"Club": "Hebei China Fortune (CHN)"
+  	},
+  	{
+  		"Name": "Federico Fazio",
+  		"Age": "31",
+  		"Position": "DC",
+  		"Club": "AS Roma (ITA)"
+  	},
+  	{
+  		"Name": "Ever Banega",
+  		"Age": "29",
+  		"Position": "MF",
+  		"Club": "Sevilla (ESP)"
+  	},
+  	{
+  		"Name": "Lucas Biglia",
+  		"Age": "31",
+  		"Position": "MF",
+  		"Club": "AC Milan (ITA)"
+  	},
+  	{
+  		"Name": "Giovani Lo Celso",
+  		"Age": "22",
+  		"Position": "MF",
+  		"Club": "PSG (FRA)"
+  	},
+  	{
+  		"Name": "Eduardo Salvio",
+  		"Age": "27",
+  		"Position": "MF",
+  		"Club": "Benfica (POR)"
+  	},
+  	{
+  		"Name": "Cristian Pavón",
+  		"Age": "22",
+  		"Position": "MF",
+  		"Club": "Boca Juniors (ARG)"
+  	},
+  	{
+  		"Name": "Maximiliano Meza",
+  		"Age": "26",
+  		"Position": "MF",
+  		"Club": "Independiente (ARG)"
+  	},
+  	{
+  		"Name": "Ángel Di Maria",
+  		"Age": "30",
+  		"Position": "MF",
+  		"Club": "PSG (FRA)"
+  	},
+  	{
+  		"Name": "Manuel Lanzini",
+  		"Age": "25",
+  		"Position": "FW",
+  		"Club": "West Ham (ENG)"
+  	},
+  	{
+  		"Name": "Lionel Messi",
+  		"Age": "31",
+  		"Position": "FW",
+  		"Club": "FC Barcelona (ESP)"
+  	},
+  	{
+  		"Name": "Paulo Dybala",
+  		"Age": "24",
+  		"Position": "FW",
+  		"Club": "Juventus (ITA)"
+  	},
+  	{
+  		"Name": "Kun Agüero",
+  		"Age": "29",
+  		"Position": "FW",
+  		"Club": "Manchester City (ENG)"
+  	},
+  	{
+  		"Name": "Gonzalo Higuaín",
+  		"Age": "30",
+  		"Position": "FW",
+  		"Club": "Juventus (ITA)"
+  	}
+  ]
+}
