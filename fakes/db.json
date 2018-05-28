@@ -5,6 +5,44 @@
     "expires_in": 86999,
     "username": "admin"
   },
+  "ConsultarProcessosCredenciamentoPrestador": {
+    "IdPrestador": 332,
+    "IdProcesso": 98,
+    "Credenciado": false,
+    "DataCredenciamento": "2016-06-28T00:00:00",
+    "Observacao": null,
+    "TipoProcesso": {
+        "Id": 1,
+        "Descricao": "Credenciamento de Hospitais"
+    },
+    "Situacao": {
+        "Descricao": "Em Análise",
+        "Index": "A"
+    },
+    "SituacaoProcessamento": {
+        "Descricao": "Processado",
+        "Index": "5"
+    },
+    "ListaFasesProcesso": [
+        {
+            "IdFaseProcesso": 85,
+            "DataInicial": "2016-06-28T00:00:00",
+            "DataFinal": "2016-06-28T00:00:00",
+            "Parecer": {
+                "Descricao": "Deferido",
+                "Index": "D"
+            },
+            "FaseCredenciamento": {
+                "Id": 6,
+                "Descricao": "CREDENCIAMENTO"
+            },
+            "JustificativaIndeferimento": null,
+            "Observacao": null,
+            "UltimaFase": false
+        }
+    ],
+    "ListaDocumentosExigidos": []
+},
   "Fixtures":
   [
   	{

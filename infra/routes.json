@@ -1,4 +1,5 @@
 {
 	"App_Services/Auth.OAuth2.svc/:view" : "/:view",	
-	"WorldCup/Argentine/:view" : "/:view"
+	"WorldCup/Argentine/:view" : "/:view",
+	"/api/*/:id": "/$1"
 }
