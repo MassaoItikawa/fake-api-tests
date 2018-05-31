@@ -6,7 +6,7 @@
     "username": "admin"
   },
   "ConsultarProcessosCredenciamentoPrestador": {
-    "IdPrestador": 332,
+    "IdPrestador": 9999,
     "IdProcesso": 98,
     "Credenciado": false,
     "DataCredenciamento": "2016-06-28T00:00:00",
@@ -16,8 +16,8 @@
         "Descricao": "Credenciamento de Hospitais"
     },
     "Situacao": {
-        "Descricao": "Em Análise",
-        "Index": "A"
+        "Descricao": "Deferido",
+        "Index": "D"
     },
     "SituacaoProcessamento": {
         "Descricao": "Processado",
